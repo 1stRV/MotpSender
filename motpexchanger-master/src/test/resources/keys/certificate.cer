@@ -1,0 +1,24 @@
+Bag Attributes
+    localKeyID: 01 00 00 00 
+    friendlyName: Maksim.Seryakov
+subject=/CN=Maxemall/O=JSC Your Organization/OU=Your Unit Name/title=Your Title/emailAddress=maxemall@bk.ru
+issuer=/CN=Maxemall/O=JSC Your Organization/OU=Your Unit Name/title=Your Title/emailAddress=maxemall@bk.ru
+-----BEGIN CERTIFICATE-----
+MIIC/jCCAmegAwIBAgIQAJBtsk2ID89EJ3aiamfNUTANBgkqhkiG9w0BAQUFADCB
+gDERMA8GA1UEAwwITWF4ZW1hbGwxHjAcBgNVBAoMFUpTQyBZb3VyIE9yZ2FuaXph
+dGlvbjEXMBUGA1UECwwOWW91ciBVbml0IE5hbWUxEzARBgNVBAwMCllvdXIgVGl0
+bGUxHTAbBgkqhkiG9w0BCQEWDm1heGVtYWxsQGJrLnJ1MB4XDTE5MDQxMTE4MzAy
+M1oXDTIwMDQxODE4MzAyM1owgYAxETAPBgNVBAMMCE1heGVtYWxsMR4wHAYDVQQK
+DBVKU0MgWW91ciBPcmdhbml6YXRpb24xFzAVBgNVBAsMDllvdXIgVW5pdCBOYW1l
+MRMwEQYDVQQMDApZb3VyIFRpdGxlMR0wGwYJKoZIhvcNAQkBFg5tYXhlbWFsbEBi
+ay5ydTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzCG+G5cmoShWvozeH1RQ
+9GS9/Zor4h1V7wzg/3loN1Y5Q5VUhuXpObhnYZViiDx8t6ThElDM3g0H9mrh0rX/
+0/2tj23meymdZmjg9uqPoUqNB+CfI9J3pgcTM3lnPyobsu2Hu4H5l2uDf6vAy9OY
+Z9J+R4e2FGEohuqlvSKtx6MCAwEAAaN3MHUwXAYKKwYBBAGCNwoDDAROMEyAFFx5
+3g2BEiBNFoj85bdedDkENDKNoSKkIDAeMRwwGgYDVQQDDBNFRFhfTWFrc2ltLlNl
+cnlha292ghAAkG2yTYgPz0QndqJqZ81RMBUGA1UdJQQOMAwGCisGAQQBgjcKAwww
+DQYJKoZIhvcNAQEFBQADgYEAtp/JclQRDKE+hV6SyrFjaCXmb1qfpYt+XdNhOJcx
+IqBrfUECuFHQzVPLqNJk8UkM5iz2eHp9NQfhystalW/FnjPS2F7sdCVfSr64f0hF
+duyZk7U6JygpHu1vmp3mqUqWRQW0BtxS+bHRyDbPr2y5x+kBmiUiNelkOwTjqTz+
+q5M=
+-----END CERTIFICATE-----

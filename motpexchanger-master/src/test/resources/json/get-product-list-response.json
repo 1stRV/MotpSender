@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "id": "3",
+      "gtin": "00000046057389",
+      "producerINN": "8613005161"
+    },
+    {
+      "id": "29",
+      "gtin": "00000046152770",
+      "producerINN": "8613005161"
+    },
+    {
+      "id": "31",
+      "gtin": "00000046205391",
+      "producerINN": "8613005161"
+    }
+  ],
+  "total": 3,
+  "errorCode": null,
+  "last": true
+}
